@@ -29,7 +29,6 @@ class MainActivity : AppCompatActivity() {
         binding.recyclerView.layoutManager = layoutManager
 
         //setContentView(binding.root)
-
         //setContentView(R.layout.activity_main)
     }
 
